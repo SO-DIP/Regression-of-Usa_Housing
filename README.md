@@ -22,7 +22,7 @@ Comparing Regression models to see which one fits the best.
 Best R^2 value(it asseses the goodness of fit of the statistical model) is given by Multiple Linear Regression
 
 
--  0.9140869002437227
+0.9140869002437227
 
 
 MSE’s basic value is in selecting one prediction model over another. the least value was given by 
